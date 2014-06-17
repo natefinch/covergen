@@ -15,9 +15,8 @@ Then run go test:
 go test
 ```
 
-Now check out the README.md ... it is updated automagically!
-
-The only drawback is that you more than double the time it takes to run your tests...
+Now check out the README.md ... it is updated automagically!  No other commands need be run.
 
 Check out covergen_test.go for how it works.
 
+The only drawback is that you more than double the time it takes to run your tests...
