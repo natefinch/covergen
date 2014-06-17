@@ -9,7 +9,7 @@ To try it out:
 go get github.com/natefinch/covergen
 ```
 
-Uncomment the commented out code in foo_test.go.  Then rerun go test:
+Then run go test:
 
 ```shell
 go test
