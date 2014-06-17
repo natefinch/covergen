@@ -15,7 +15,7 @@ Then run go test:
 go test
 ```
 
-Now check out the README.md ... it is updated automagically!  No other commands need be run.
+Now run git diff... the url for the coverage badge in README.md is updated automagically!  No other commands need be run.
 
 Check out covergen_test.go for how it works.
 
