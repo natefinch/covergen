@@ -1,4 +1,4 @@
-# Covergen ![Coverage](http://img.shields.io/badge/coverage-50.0%25-red.svg)
+# Covergen ![Coverage](http://img.shields.io/badge/coverage-100.0%25-brightgreen.svg)
 
 
 Autoupdate a coverage badge in your README.md with this one dumb trick!
